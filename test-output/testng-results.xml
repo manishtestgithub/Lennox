@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="283565" started-at="2021-03-21T17:31:01Z" finished-at="2021-03-21T17:35:44Z">
+  <suite name="Suite" duration-ms="464826" started-at="2021-03-23T07:17:31Z" finished-at="2021-03-23T07:25:16Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="283565" started-at="2021-03-21T17:31:01Z" finished-at="2021-03-21T17:35:44Z">
+    <test name="Test" duration-ms="464826" started-at="2021-03-23T07:17:31Z" finished-at="2021-03-23T07:25:16Z">
       <class name="com.org.testcases.LennoxLogin">
-        <test-method status="PASS" signature="setupSuit()[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="setupSuit" is-config="true" duration-ms="2160" started-at="2021-03-21T17:30:59Z" finished-at="2021-03-21T17:31:01Z">
+        <test-method status="PASS" signature="setupSuit()[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="setupSuit" is-config="true" duration-ms="507" started-at="2021-03-23T07:17:30Z" finished-at="2021-03-23T07:17:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupSuit -->
-        <test-method status="PASS" signature="loginLennox()[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="loginLennox" is-config="true" duration-ms="97104" started-at="2021-03-21T17:31:01Z" finished-at="2021-03-21T17:32:38Z">
+        <test-method status="PASS" signature="loginLennox()[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="loginLennox" is-config="true" duration-ms="129889" started-at="2021-03-23T07:17:31Z" finished-at="2021-03-23T07:19:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginLennox -->
-        <test-method status="PASS" signature="menuNavigate()[pri:1, instance:com.org.testcases.LennoxLogin@6500df86]" name="menuNavigate" duration-ms="948" started-at="2021-03-21T17:32:38Z" finished-at="2021-03-21T17:32:39Z">
+        <test-method status="PASS" signature="menuNavigate()[pri:1, instance:com.org.testcases.LennoxLogin@6500df86]" name="menuNavigate" duration-ms="3603" started-at="2021-03-23T07:19:41Z" finished-at="2021-03-23T07:19:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- menuNavigate -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="2303" started-at="2021-03-21T17:32:39Z" finished-at="2021-03-21T17:32:41Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="3464" started-at="2021-03-23T07:19:44Z" finished-at="2021-03-23T07:19:48Z">
           <params>
             <param index="0">
               <value>
@@ -30,11 +30,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="selectLead()[pri:2, instance:com.org.testcases.LennoxLogin@6500df86]" name="selectLead" duration-ms="28545" started-at="2021-03-21T17:32:41Z" finished-at="2021-03-21T17:33:10Z">
+        <test-method status="PASS" signature="selectLead()[pri:2, instance:com.org.testcases.LennoxLogin@6500df86]" name="selectLead" duration-ms="35549" started-at="2021-03-23T07:19:48Z" finished-at="2021-03-23T07:20:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectLead -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="683" started-at="2021-03-21T17:33:10Z" finished-at="2021-03-21T17:33:11Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="1190" started-at="2021-03-23T07:20:23Z" finished-at="2021-03-23T07:20:24Z">
           <params>
             <param index="0">
               <value>
@@ -45,11 +45,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="addLead()[pri:3, instance:com.org.testcases.LennoxLogin@6500df86]" name="addLead" duration-ms="27368" started-at="2021-03-21T17:33:11Z" finished-at="2021-03-21T17:33:38Z">
+        <test-method status="PASS" signature="addLead()[pri:3, instance:com.org.testcases.LennoxLogin@6500df86]" name="addLead" duration-ms="33434" started-at="2021-03-23T07:20:24Z" finished-at="2021-03-23T07:20:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addLead -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="507" started-at="2021-03-21T17:33:38Z" finished-at="2021-03-21T17:33:39Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="807" started-at="2021-03-23T07:20:58Z" finished-at="2021-03-23T07:20:59Z">
           <params>
             <param index="0">
               <value>
@@ -60,7 +60,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="dataFillLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.org.testcases.LennoxLogin@6500df86]" name="dataFillLead" duration-ms="47487" started-at="2021-03-21T17:33:47Z" data-provider="DataFillLeadPage" finished-at="2021-03-21T17:34:35Z">
+        <test-method status="PASS" signature="dataFillLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.org.testcases.LennoxLogin@6500df86]" name="dataFillLead" duration-ms="108931" started-at="2021-03-23T07:21:08Z" data-provider="DataFillLeadPage" finished-at="2021-03-23T07:22:56Z">
           <params>
             <param index="0">
               <value>
@@ -131,7 +131,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dataFillLead -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="594" started-at="2021-03-21T17:34:35Z" finished-at="2021-03-21T17:34:35Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="737" started-at="2021-03-23T07:22:56Z" finished-at="2021-03-23T07:22:57Z">
           <params>
             <param index="0">
               <value>
@@ -142,7 +142,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="dataFillLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.org.testcases.LennoxLogin@6500df86]" name="dataFillLead" duration-ms="33745" started-at="2021-03-21T17:34:35Z" data-provider="DataFillLeadPage" finished-at="2021-03-21T17:35:09Z">
+        <test-method status="PASS" signature="dataFillLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.org.testcases.LennoxLogin@6500df86]" name="dataFillLead" duration-ms="61332" started-at="2021-03-23T07:22:57Z" data-provider="DataFillLeadPage" finished-at="2021-03-23T07:23:59Z">
           <params>
             <param index="0">
               <value>
@@ -213,7 +213,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dataFillLead -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="682" started-at="2021-03-21T17:35:09Z" finished-at="2021-03-21T17:35:10Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="712" started-at="2021-03-23T07:23:59Z" finished-at="2021-03-23T07:23:59Z">
           <params>
             <param index="0">
               <value>
@@ -224,7 +224,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="dataFillLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.org.testcases.LennoxLogin@6500df86]" name="dataFillLead" duration-ms="30620" started-at="2021-03-21T17:35:10Z" data-provider="DataFillLeadPage" finished-at="2021-03-21T17:35:40Z">
+        <test-method status="PASS" signature="dataFillLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.org.testcases.LennoxLogin@6500df86]" name="dataFillLead" duration-ms="68873" started-at="2021-03-23T07:23:59Z" data-provider="DataFillLeadPage" finished-at="2021-03-23T07:25:08Z">
           <params>
             <param index="0">
               <value>
@@ -295,7 +295,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dataFillLead -->
-        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="529" started-at="2021-03-21T17:35:40Z" finished-at="2021-03-21T17:35:41Z">
+        <test-method status="PASS" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDownMethod" is-config="true" duration-ms="769" started-at="2021-03-23T07:25:08Z" finished-at="2021-03-23T07:25:09Z">
           <params>
             <param index="0">
               <value>
@@ -306,11 +306,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownMethod -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDown" is-config="true" duration-ms="3515" started-at="2021-03-21T17:35:41Z" finished-at="2021-03-21T17:35:44Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.org.testcases.LennoxLogin@6500df86]" name="tearDown" is-config="true" duration-ms="6612" started-at="2021-03-23T07:25:09Z" finished-at="2021-03-23T07:25:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.org.testcases.LennoxLogin -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
